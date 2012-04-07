@@ -1,7 +1,6 @@
 1.2.0
 - connecting directly to Ziggo (no more redirection from Wezelkrozum)
-- better error handling
-- added debug logging
+- better error handling with debug logging
 
 1.1.0
 - fixed streams to more robust solution, thanx to Wezelkrozum.
