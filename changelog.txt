@@ -1,3 +1,6 @@
+1.3.0
+- Mark broken due to Ziggo changing the streaming protocol
+
 1.2.0
 - connecting directly to Ziggo (no more redirection from Wezelkrozum)
 - better error handling with debug logging
